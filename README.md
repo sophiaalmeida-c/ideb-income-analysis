@@ -12,3 +12,7 @@ Is there a correlation between average municipal income and IDEB scores?
 
 ## Status
 Initial exploratory analysis.
+## Methodological Note
+Due to temporary access limitations to official IBGE and INEP APIs, 
+income and IDEB values are currently simulated for methodological demonstration.
+All analysis code is structured to be directly reusable with official datasets.
